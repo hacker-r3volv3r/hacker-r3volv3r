@@ -10,16 +10,11 @@
   <h1 style="border-bottom: none;">Hi, I'm r3volv3r!</h1>
 </div>
 
-```typescript
-let r3volv3r = {
-    // Basic Info
-    pronouns: "He/Him",
-    location: "Russia",
-    timezone: "CEST (UTC+5)",
-    bio: "I'm Revolver, a cybersecurity specialist, CTF player and a full stack deveolper 👨‍💻 🕵️",
+
+
+    bio: "I'm Revolver, a Pentester, DevSecOps, AppSec, Cybersecurity Specialist, CTF player and a full stack developer.
 
     // Coding
-    projects: [ "Auto-Hunt", "radio.rs", "RhinOSINT" ],
     favoriteLanguages: [ "Python", "RoR", "Go", "C++", "PHP" ],
 }
 ```
