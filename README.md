@@ -12,14 +12,6 @@
 
 
 
-    bio: "I'm Revolver, a Pentester, DevSecOps, AppSec, Cybersecurity Specialist, CTF player and a full stack developer.
-
-    // Coding
-    favoriteLanguages: [ "Python", "RoR", "Go", "C++", "PHP" ],
-}
-```
-
-<br/>  
 
 
 ## My Skill Set  
@@ -98,7 +90,6 @@
 
   ![https://app.hackthebox.com/profile/1311653](https://www.hackthebox.eu/badge/image/1311653)
 
-  ![https://tryhackme.com/p/r3volver](https://tryhackme-badges.s3.amazonaws.com/r3volv3r.png)
 
 </div>
 
